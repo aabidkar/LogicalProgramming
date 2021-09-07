@@ -25,7 +25,5 @@ public class ReverseNumber {
 		Scanner myObj = new Scanner(System.in);
 		int number = myObj.nextInt();
 		ReverseNumber.reverseOfNumber(number);
-
 	}
-
 }
