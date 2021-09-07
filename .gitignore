@@ -1,2 +1,6 @@
 #Ignore log files present in logs directory
 log/
+
+#Ignore .class file
+target/classes/programms/
+
