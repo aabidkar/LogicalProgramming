@@ -1,3 +1,399 @@
 2021-09-07 11:45:44,474 -programms.ReverseNumber -reverseOfNumber - 16 -3 
 2021-09-07 11:45:44,477 -programms.ReverseNumber -reverseOfNumber - 16 -2 
 2021-09-07 11:45:44,477 -programms.ReverseNumber -reverseOfNumber - 16 -1 
+2021-09-08 09:44:48,787 -programms.NumberEvenOrOddLBP0001 -main - 20 -Odd Number
+2021-09-08 09:55:43,469 -programms.NumberEvenOrOddLBP0001 -main - 22 -Invalid Number
+2021-09-08 10:13:35,765 -programms.NumberWeirdNotWeird_LBP002 -main - 25 -Out of Range Number
+2021-09-08 10:13:49,109 -programms.NumberWeirdNotWeird_LBP002 -main - 25 -Not Weird
+2021-09-08 10:14:06,188 -programms.NumberWeirdNotWeird_LBP002 -main - 25 -Weird
+2021-09-08 11:06:47,454 -programms.LeapYear_LBP003 -main - 20 -Leap Year
+2021-09-08 12:01:23,718 -programms.eCommerceSalesCount_LBP004 -main - 29 -Invalid Sales Count
+2021-09-08 12:01:30,517 -programms.eCommerceSalesCount_LBP004 -main - 29 -A
+2021-09-08 12:01:34,774 -programms.eCommerceSalesCount_LBP004 -main - 29 -Invalid Sales Count
+2021-09-08 12:01:46,893 -programms.eCommerceSalesCount_LBP004 -main - 29 -D
+2021-09-08 12:49:26,625 -programms.IncrementedNumber_LBP005 -main - 15 -6
+2021-09-08 12:49:44,393 -programms.IncrementedNumber_LBP005 -main - 15 -7
+2021-09-08 12:49:52,497 -programms.IncrementedNumber_LBP005 -main - 15 --7
+2021-09-08 13:02:03,243 -programms.FreeCoffeeCups_LBP006 -main - 17 -60
+2021-09-08 13:02:25,843 -programms.FreeCoffeeCups_LBP006 -main - 17 -70
+2021-09-08 13:02:36,355 -programms.FreeCoffeeCups_LBP006 -main - 17 -14
+2021-09-08 13:15:07,165 -programms.ExtractDigits_LBP007 -main - 27 -321
+2021-09-08 13:16:28,349 -programms.ExtractDigits_LBP007 -main - 27 -0
+2021-09-08 17:18:15,111 -programms.SumOfEvenDigits_LBP008 -main - 27 -6
+2021-09-08 17:20:33,414 -programms.SumOfOddDigits_LBP009 -main - 28 -6
+2021-09-08 17:20:48,741 -programms.SumOfOddDigits_LBP009 -main - 28 -4
+2021-09-08 17:54:52,103 -programms.SumOfPrimeDigits_LBP010 -main - 27 -5
+2021-09-08 18:01:38,396 -programms.SumOfPrimeDigitsLBP010 -main - 28 -5
+2021-09-08 18:06:53,545 -programms.FreeCoffeeCupsLBP006 -main - 17 -11
+2021-09-08 18:07:08,417 -programms.FreeCoffeeCupsLBP006 -main - 17 -70
+2021-09-08 18:07:17,561 -programms.FreeCoffeeCupsLBP006 -main - 17 -70
+2021-09-08 21:35:48,774 -programms.SumOfEvenDigitsLBP008 -main - 26 --8
+2021-09-08 21:36:04,197 -programms.SumOfEvenDigitsLBP008 -main - 26 -6
+2021-09-08 21:41:43,795 -programms.SumOfPrimeDigitsLBP011 -main - 24 -17
+2021-09-08 21:45:05,354 -programms.SumOfDigitsDivisblebyThreeLBP012 -main - 25 -3
+2021-09-08 21:45:20,033 -programms.SumOfDigitsDivisblebyThreeLBP012 -main - 25 -9
+2021-09-08 21:54:40,605 -programms.NumberOfDigitsLBP012 -main - 24 -4
+2021-09-08 21:58:12,043 -programms.ReverseOfNumberLBP013 -main - 24 -0
+2021-09-08 21:59:20,787 -programms.ReverseOfNumberLBP013 -main - 24 -4321
+2021-09-08 21:59:36,635 -programms.ReverseOfNumberLBP013 -main - 24 -4321
+2021-09-08 22:00:00,363 -programms.ReverseOfNumberLBP013 -main - 24 -0
+2021-09-08 22:00:35,490 -programms.ReverseOfNumberLBP013 -main - 24 -65
+2021-09-08 22:21:15,714 -programms.DuckNumberLBP014 -main - 24 -false
+2021-09-08 22:21:23,665 -programms.DuckNumberLBP014 -main - 24 -true
+2021-09-08 22:27:35,959 -programms.NumberOfOccuranceLBP015 -main - 26 -2
+2021-09-09 11:45:01,776 -programms.PaliandromeNumberLBP16 -main - 27 -Not a Paliandrome Number
+2021-09-09 11:45:33,279 -programms.PaliandromeNumberLBP16 -PaliandromeNumber - 18 -121
+2021-09-09 11:45:33,282 -programms.PaliandromeNumberLBP16 -main - 28 -Not a Paliandrome Number
+2021-09-09 11:46:52,639 -programms.PaliandromeNumberLBP16 -PaliandromeNumber - 18 -4321
+2021-09-09 11:46:52,642 -programms.PaliandromeNumberLBP16 -main - 28 -Not a Paliandrome Number
+2021-09-09 11:47:00,847 -programms.PaliandromeNumberLBP16 -PaliandromeNumber - 18 -11
+2021-09-09 11:47:00,850 -programms.PaliandromeNumberLBP16 -main - 28 -Not a Paliandrome Number
+2021-09-09 11:47:14,510 -programms.PaliandromeNumberLBP16 -PaliandromeNumber - 18 -4321
+2021-09-09 11:47:14,513 -programms.PaliandromeNumberLBP16 -main - 28 -Not a Paliandrome Number
+2021-09-09 11:47:30,750 -programms.PaliandromeNumberLBP16 -PaliandromeNumber - 18 -121
+2021-09-09 11:47:30,753 -programms.PaliandromeNumberLBP16 -main - 28 -Not a Paliandrome Number
+2021-09-09 11:49:58,558 -programms.PaliandromeNumberLBP16 -PaliandromeNumber - 18 -121
+2021-09-09 11:49:58,561 -programms.PaliandromeNumberLBP16 -main - 28 -Not a Paliandrome Number
+2021-09-09 11:50:19,429 -programms.PaliandromeNumberLBP16 -PaliandromeNumber - 18 -121
+2021-09-09 11:50:19,432 -programms.PaliandromeNumberLBP16 -main - 28 -Not a Paliandrome Number
+2021-09-09 11:51:01,381 -programms.PaliandromeNumberLBP16 -PaliandromeNumber - 18 -121
+2021-09-09 11:51:01,384 -programms.PaliandromeNumberLBP16 -main - 28 -Not a Paliandrome Number
+2021-09-09 11:51:11,565 -programms.PaliandromeNumberLBP16 -PaliandromeNumber - 18 -121
+2021-09-09 11:51:11,568 -programms.PaliandromeNumberLBP16 -main - 28 -Not a Paliandrome Number
+2021-09-09 11:52:02,445 -programms.PaliandromeNumberLBP16 -PaliandromeNumber - 19 -121
+2021-09-09 11:52:02,448 -programms.PaliandromeNumberLBP16 -main - 29 -Paliandrome Number
+2021-09-09 12:42:07,230 -programms.BirthdayCheckLBP017 -main - 21 -0
+2021-09-09 12:42:17,914 -programms.BirthdayCheckLBP017 -main - 21 -1
+2021-09-11 11:55:18,280 -programms.CountOddEvenZeroNumberLBP018 -main - 31 -0
+2021-09-11 11:55:18,282 -programms.CountOddEvenZeroNumberLBP018 -main - 32 -2
+2021-09-11 11:55:18,283 -programms.CountOddEvenZeroNumberLBP018 -main - 33 -2
+2021-09-11 11:55:25,415 -programms.CountOddEvenZeroNumberLBP018 -main - 31 -0
+2021-09-11 11:55:25,418 -programms.CountOddEvenZeroNumberLBP018 -main - 32 -0
+2021-09-11 11:55:25,418 -programms.CountOddEvenZeroNumberLBP018 -main - 33 -0
+2021-09-11 11:55:44,383 -programms.CountOddEvenZeroNumberLBP018 -main - 31 -1
+2021-09-11 11:55:44,386 -programms.CountOddEvenZeroNumberLBP018 -main - 32 -1
+2021-09-11 11:55:44,386 -programms.CountOddEvenZeroNumberLBP018 -main - 33 -2
+2021-09-11 11:56:56,218 -programms.CountOddEvenZeroNumberLBP018 -main - 32 -1
+2021-09-11 11:56:56,221 -programms.CountOddEvenZeroNumberLBP018 -main - 33 -0
+2021-09-11 11:56:56,221 -programms.CountOddEvenZeroNumberLBP018 -main - 34 -0
+2021-09-11 12:36:03,215 -programms.FindMaxMinNumberLBP019 -main - 29 -9
+2021-09-11 12:36:03,218 -programms.FindMaxMinNumberLBP019 -main - 30 -0
+2021-09-11 12:36:25,950 -programms.FindMaxMinNumberLBP019 -main - 29 -4
+2021-09-11 12:36:25,954 -programms.FindMaxMinNumberLBP019 -main - 30 -1
+2021-09-11 12:37:13,110 -programms.FindMaxMinNumberLBP019 -main - 29 -3
+2021-09-11 12:37:13,114 -programms.FindMaxMinNumberLBP019 -main - 30 -0
+2021-09-12 10:40:55,103 -programms.FibonaciSeriesLBP020 -main - 20 -34
+2021-09-12 10:41:20,414 -programms.FibonaciSeriesLBP020 -main - 20 -5
+2021-09-12 10:41:26,510 -programms.FibonaciSeriesLBP020 -main - 20 -8
+2021-09-12 10:55:33,248 -programms.ChristmasOfferPrimeNumberLBP021 -main - 25 -13
+2021-09-12 10:55:54,776 -programms.ChristmasOfferPrimeNumberLBP021 -main - 24 -5
+2021-09-12 11:08:42,002 -programms.NivenNumberLBP022 -main - 29 -Niven Number
+2021-09-12 11:40:45,821 -programms.NivenNumberLBP022 -main - 29 -Not a Niven Number
+2021-09-12 11:51:01,112 -programms.SpecialTwoDigitsNumberLBP023 -main - 33 -Not a Speical Two Digit Number
+2021-09-12 11:51:38,232 -programms.SpecialTwoDigitsNumberLBP023 -specialTwoDigitNumebr - 23 -14
+2021-09-12 11:51:38,235 -programms.SpecialTwoDigitsNumberLBP023 -specialTwoDigitNumebr - 24 -0
+2021-09-12 11:51:38,235 -programms.SpecialTwoDigitsNumberLBP023 -specialTwoDigitNumebr - 25 -14
+2021-09-12 11:51:38,235 -programms.SpecialTwoDigitsNumberLBP023 -main - 36 -Not a Speical Two Digit Number
+2021-09-12 11:51:56,480 -programms.SpecialTwoDigitsNumberLBP023 -specialTwoDigitNumebr - 23 -14
+2021-09-12 11:51:56,483 -programms.SpecialTwoDigitsNumberLBP023 -specialTwoDigitNumebr - 24 -0
+2021-09-12 11:51:56,483 -programms.SpecialTwoDigitsNumberLBP023 -specialTwoDigitNumebr - 25 -14
+2021-09-12 11:51:56,483 -programms.SpecialTwoDigitsNumberLBP023 -main - 36 -Not a Speical Two Digit Number
+2021-09-12 11:54:00,359 -programms.SpecialTwoDigitsNumberLBP023 -specialTwoDigitNumebr - 23 -14
+2021-09-12 11:54:00,362 -programms.SpecialTwoDigitsNumberLBP023 -specialTwoDigitNumebr - 24 -0
+2021-09-12 11:54:00,362 -programms.SpecialTwoDigitsNumberLBP023 -specialTwoDigitNumebr - 25 -14
+2021-09-12 11:54:00,362 -programms.SpecialTwoDigitsNumberLBP023 -main - 36 -Not a Speical Two Digit Number
+2021-09-12 11:54:20,815 -programms.SpecialTwoDigitsNumberLBP023 -specialTwoDigitNumebr - 23 -14
+2021-09-12 11:54:20,818 -programms.SpecialTwoDigitsNumberLBP023 -specialTwoDigitNumebr - 24 -45
+2021-09-12 11:54:20,818 -programms.SpecialTwoDigitsNumberLBP023 -specialTwoDigitNumebr - 25 -59
+2021-09-12 11:54:20,818 -programms.SpecialTwoDigitsNumberLBP023 -main - 36 -Special Two Digit Number
+2021-09-12 12:21:14,948 -programms.SpecialTwoDigitsNumberLBP023 -main - 32 -Special Two Digit Number
+2021-09-12 12:25:28,762 -programms.SpecialTwoDigitsNumberLBP023 -main - 32 -Special Two Digit Number
+2021-09-12 12:31:44,112 -programms.SumOfEvenRangeLBP024 -main - 22 -6
+2021-09-12 12:32:49,926 -programms.SumOfEvenRangeLBP024 -main - 23 -20
+2021-09-12 12:33:01,110 -programms.SumOfEvenRangeLBP024 -main - 23 -36
+2021-09-12 13:02:37,259 -programms.CelsiusToFahrenheitLBP025 -main - 19 -41
+2021-09-12 13:05:47,097 -programms.FahrenheitToCelsiusLBP026 -main - 19 --15
+2021-09-12 13:26:30,384 -programms.SequenceSumLBP027 -main - 25 -35
+2021-09-12 13:28:33,136 -programms.SequenceSumLBP027 -main - 25 --1073741792
+2021-09-12 13:28:42,927 -programms.SequenceSumLBP027 -main - 25 -35
+2021-09-12 13:29:56,998 -programms.SequenceSumLBP027 -sequenceSum - 13 -5
+2021-09-12 13:29:57,002 -programms.SequenceSumLBP027 -sequenceSum - 13 -6
+2021-09-12 13:29:57,002 -programms.SequenceSumLBP027 -sequenceSum - 13 -7
+2021-09-12 13:29:57,002 -programms.SequenceSumLBP027 -sequenceSum - 13 -8
+2021-09-12 13:29:57,003 -programms.SequenceSumLBP027 -sequenceSum - 13 -9
+2021-09-12 13:29:57,003 -programms.SequenceSumLBP027 -main - 29 -35
+2021-09-12 13:30:27,798 -programms.SequenceSumLBP027 -sequenceSum - 13 -5
+2021-09-12 13:30:27,801 -programms.SequenceSumLBP027 -sequenceSum - 13 -6
+2021-09-12 13:30:27,801 -programms.SequenceSumLBP027 -sequenceSum - 13 -7
+2021-09-12 13:30:27,801 -programms.SequenceSumLBP027 -sequenceSum - 13 -8
+2021-09-12 13:30:27,801 -programms.SequenceSumLBP027 -sequenceSum - 13 -9
+2021-09-12 13:30:27,802 -programms.SequenceSumLBP027 -main - 29 -35
+2021-09-12 13:30:56,142 -programms.SequenceSumLBP027 -main - 30 -0
+2021-09-12 13:31:19,766 -programms.SequenceSumLBP027 -sequenceSum - 13 -5
+2021-09-12 13:31:19,769 -programms.SequenceSumLBP027 -sequenceSum - 13 -6
+2021-09-12 13:31:19,769 -programms.SequenceSumLBP027 -sequenceSum - 13 -7
+2021-09-12 13:31:19,769 -programms.SequenceSumLBP027 -sequenceSum - 13 -8
+2021-09-12 13:31:19,769 -programms.SequenceSumLBP027 -sequenceSum - 13 -9
+2021-09-12 13:31:19,769 -programms.SequenceSumLBP027 -main - 30 -35
+2021-09-12 13:31:49,341 -programms.SequenceSumLBP027 -sequenceSum - 13 -5
+2021-09-12 13:31:49,344 -programms.SequenceSumLBP027 -sequenceSum - 13 -6
+2021-09-12 13:31:49,344 -programms.SequenceSumLBP027 -sequenceSum - 13 -7
+2021-09-12 13:31:49,344 -programms.SequenceSumLBP027 -sequenceSum - 13 -8
+2021-09-12 13:31:49,345 -programms.SequenceSumLBP027 -sequenceSum - 13 -9
+2021-09-12 13:31:49,345 -programms.SequenceSumLBP027 -sequenceSum - 18 -9
+2021-09-12 13:31:49,347 -programms.SequenceSumLBP027 -sequenceSum - 18 -8
+2021-09-12 13:31:49,347 -programms.SequenceSumLBP027 -sequenceSum - 18 -7
+2021-09-12 13:31:49,347 -programms.SequenceSumLBP027 -sequenceSum - 18 -6
+2021-09-12 13:31:49,347 -programms.SequenceSumLBP027 -main - 30 -65
+2021-09-12 13:32:03,293 -programms.SequenceSumLBP027 -sequenceSum - 18 -9
+2021-09-12 13:32:03,296 -programms.SequenceSumLBP027 -sequenceSum - 18 -8
+2021-09-12 13:32:03,296 -programms.SequenceSumLBP027 -sequenceSum - 18 -7
+2021-09-12 13:32:03,296 -programms.SequenceSumLBP027 -sequenceSum - 18 -6
+2021-09-12 13:32:03,296 -programms.SequenceSumLBP027 -main - 30 -30
+2021-09-12 13:32:22,653 -programms.SequenceSumLBP027 -sequenceSum - 18 -8
+2021-09-12 13:32:22,656 -programms.SequenceSumLBP027 -sequenceSum - 18 -7
+2021-09-12 13:32:22,656 -programms.SequenceSumLBP027 -sequenceSum - 18 -6
+2021-09-12 13:32:22,656 -programms.SequenceSumLBP027 -main - 30 -21
+2021-09-12 13:32:40,997 -programms.SequenceSumLBP027 -sequenceSum - 13 -5
+2021-09-12 13:32:41,000 -programms.SequenceSumLBP027 -sequenceSum - 13 -6
+2021-09-12 13:32:41,000 -programms.SequenceSumLBP027 -sequenceSum - 13 -7
+2021-09-12 13:32:41,000 -programms.SequenceSumLBP027 -sequenceSum - 13 -8
+2021-09-12 13:32:41,000 -programms.SequenceSumLBP027 -sequenceSum - 13 -9
+2021-09-12 13:32:41,000 -programms.SequenceSumLBP027 -sequenceSum - 18 -8
+2021-09-12 13:32:41,002 -programms.SequenceSumLBP027 -sequenceSum - 18 -7
+2021-09-12 13:32:41,002 -programms.SequenceSumLBP027 -sequenceSum - 18 -6
+2021-09-12 13:32:41,003 -programms.SequenceSumLBP027 -main - 30 -56
+2021-09-12 13:33:03,821 -programms.SequenceSumLBP027 -main - 24 -56
+2021-09-12 20:18:16,965 -programms.PrimeNumberLBP028 -main - 26 -Prime Number
+2021-09-12 20:18:21,293 -programms.PrimeNumberLBP028 -main - 26 -Not a Prime Number
+2021-09-12 21:00:31,212 -programms.PalindromeStringLBP029 -main - 27 -ch
+2021-09-12 21:10:49,767 -programms.PalindromeStringLBP029 -main - 28 -ch
+2021-09-12 21:11:37,679 -programms.PalindromeStringLBP029 -main - 28 -ch
+2021-09-13 10:51:02,050 -programms.CreatePinLBP030 -main - 24 -7
+2021-09-13 10:51:10,899 -programms.CreatePinLBP030 -main - 24 -1
+2021-09-13 19:20:36,299 -programms.CreatePinLBP030 -main - 46 -1001
+2021-09-13 19:20:58,043 -programms.CreatePinLBP030 -main - 46 -3003
+2021-09-13 19:22:27,962 -programms.CreatePinLBP030 -main - 47 -123
+2021-09-13 19:22:45,354 -programms.CreatePinLBP030 -main - 47 -9
+2021-09-13 19:23:45,562 -programms.CreatePinLBP030 -main - 47 -1
+2021-09-13 19:24:08,386 -programms.CreatePinLBP030 -main - 47 -7
+2021-09-13 19:26:11,088 -programms.CreatePinLBP030 -main - 46 -3003
+2021-09-13 19:26:40,160 -programms.CreatePinLBP030 -main - 45 -3003
+2021-09-13 19:28:37,600 -programms.CreatePinLBP030 -main - 49 -3003
+2021-09-13 19:34:11,373 -programms.CreatePinLBP030 -main - 49 -8183
+2021-09-13 19:34:49,517 -programms.CreatePinLBP030 -main - 49 -3003
+2021-09-13 19:37:14,364 -programms.CreatePinLBP030 -main - 49 -3003
+2021-09-13 19:37:43,900 -programms.CreatePinLBP030 -main - 49 -3143
+2021-09-13 19:39:05,052 -programms.CreatePinLBP030 -main - 49 -3003
+2021-09-13 19:41:43,963 -programms.CreatePinLBP030 -main - 48 -3300
+2021-09-13 19:43:36,545 -programms.CreatePinLBP030 -main - 48 -3300
+2021-09-13 20:28:38,137 -programms.CreatePinLBP030 -main - 47 -37980
+2021-09-13 22:30:10,427 -programms.CreatePinLBP030 -main - 48 -2200
+2021-09-13 22:32:46,384 -programms.CreatePinLBP030 -main - 48 -3300
+2021-09-13 22:35:12,231 -programms.CreatePinLBP030 -main - 48 -3300
+2021-09-13 22:35:50,227 -programms.CreatePinLBP030 -main - 48 -26325
+2021-09-13 22:37:43,691 -programms.CreatePinLBP030 -main - 48 -8321
+2021-09-13 22:38:08,642 -programms.CreatePinLBP030 -main - 48 -8123
+2021-09-13 22:50:04,252 -programms.CreatePinLBP030 -main - 48 -8123
+2021-09-14 13:01:05,472 -programms.CountSpecialCharacterLBP031 -main - 27 -0
+2021-09-14 13:01:21,184 -programms.CountSpecialCharacterLBP031 -main - 27 -2
+2021-09-14 13:01:34,649 -programms.CountSpecialCharacterLBP031 -main - 27 -3
+2021-09-14 13:16:33,426 -programms.EcommerceComapnyDiscontLBP032 -main - 25 -4
+2021-09-14 13:17:00,250 -programms.EcommerceComapnyDiscontLBP032 -main - 25 -9
+2021-09-14 15:25:48,762 -programms.SumOfNonPrimeLBP033 -main - 24 -10
+2021-09-14 15:32:44,655 -programms.FristCapitalLetterLBP034 -main - 20 -I
+2021-09-14 15:34:41,326 -programms.FristCapitalLetterLBP034 -main - 21 - 
+2021-09-14 15:35:06,214 -programms.FristCapitalLetterLBP034 -main - 21 -T
+2021-09-14 16:07:46,305 -programms.LowertoUpperCaseLBP035 -main - 24 -M
+2021-09-14 16:08:31,313 -programms.LowertoUpperCaseLBP035 -main - 26 -M
+2021-09-14 16:09:22,360 -programms.LowertoUpperCaseLBP035 -main - 26 -A
+2021-09-14 16:10:06,480 -programms.LowertoUpperCaseLBP035 -main - 26 -M
+2021-09-14 16:11:57,015 -programms.LowertoUpperCaseLBP035 -main - 27 -T
+2021-09-14 16:12:15,039 -programms.LowertoUpperCaseLBP035 -main - 27 -T
+2021-09-14 16:13:06,694 -programms.LowertoUpperCaseLBP035 -main - 27 -7710584
+2021-09-14 16:13:55,542 -programms.LowertoUpperCaseLBP035 -main - 27 -7710584
+2021-09-14 16:14:59,725 -programms.LowertoUpperCaseLBP035 -main - 27 -amiT
+2021-09-14 16:16:04,325 -programms.LowertoUpperCaseLBP035 -lowertoUpperCase - 20 -7710584
+2021-09-14 16:16:04,328 -programms.LowertoUpperCaseLBP035 -main - 28 -amIt
+2021-09-14 16:18:14,835 -programms.LowertoUpperCaseLBP035 -lowertoUpperCase - 20 -77105116
+2021-09-14 16:18:14,838 -programms.LowertoUpperCaseLBP035 -main - 28 -77105116
+2021-09-14 16:26:05,505 -programms.LowertoUpperCaseLBP035 -lowertoUpperCase - 20 -6577105116
+2021-09-14 16:26:05,507 -programms.LowertoUpperCaseLBP035 -main - 28 -6577105116
+2021-09-14 16:27:29,912 -programms.LowertoUpperCaseLBP035 -lowertoUpperCase - 20 -AMit
+2021-09-14 16:27:29,915 -programms.LowertoUpperCaseLBP035 -main - 28 -AMit
+2021-09-14 16:34:20,838 -programms.CountSpecialCharacterLBP036 -main - 28 -2
+2021-09-14 16:35:25,245 -programms.CountSpecialCharacterLBP036 -main - 30 -3
+2021-09-14 16:36:26,743 -programms.CountSpecialCharacterLBP036 -main - 30 -3
+2021-09-14 16:36:34,324 -programms.CountSpecialCharacterLBP036 -main - 30 -3
+2021-09-14 19:15:38,873 -programms.BlackJackV1LBP037 -main - 25 -19
+2021-09-14 19:15:52,929 -programms.BlackJackV1LBP037 -main - 25 -21
+2021-09-14 19:16:04,281 -programms.BlackJackV1LBP037 -main - 25 -15
+2021-09-15 10:08:53,096 -programms.PrimeSumLBP038 -main - 32 -8
+2021-09-15 10:09:56,728 -programms.PrimeSumLBP038 -main - 32 -10
+2021-09-15 10:10:18,024 -programms.PrimeSumLBP038 -main - 32 -37
+2021-09-15 10:10:29,128 -programms.PrimeSumLBP038 -main - 32 -17
+2021-09-15 10:34:57,238 -programms.CompanyDiscountLBP039 -main - 30 -90
+2021-09-15 11:21:46,137 -programms.SumOfEvenOddArrayLBP040 -main - 34 -3
+2021-09-15 11:22:08,897 -programms.SumOfEvenOddArrayLBP040 -main - 34 -2
+2021-09-15 11:40:40,606 -programms.LowertoUpperCaseLBP035 -main - 26 -AMit
+2021-09-15 12:11:22,252 -programms.CountSpecialCharacterLBP031 -main - 24 -6
+2021-09-15 12:11:43,164 -programms.CountSpecialCharacterLBP031 -main - 24 -0
+2021-09-15 12:11:50,460 -programms.CountSpecialCharacterLBP031 -main - 24 -0
+2021-09-15 12:12:08,604 -programms.CountSpecialCharacterLBP031 -main - 25 -3
+2021-09-15 12:12:17,156 -programms.CountSpecialCharacterLBP031 -main - 25 -3
+2021-09-15 12:14:07,715 -programms.CountSpecialCharacterLBP031 -main - 25 -1
+2021-09-15 12:25:44,679 -programms.CountSpecialCharacterLBP036 -main - 23 -1
+2021-09-15 12:25:53,767 -programms.CountSpecialCharacterLBP036 -main - 23 -11
+2021-09-15 14:10:32,034 -programms.PerfectNumberLBP041 -main - 30 -false
+2021-09-15 14:11:46,130 -programms.PerfectNumberLBP041 -main - 28 -false
+2021-09-15 14:12:37,746 -programms.PerfectNumberLBP041 -main - 26 -false
+2021-09-15 14:12:45,914 -programms.PerfectNumberLBP041 -main - 26 -false
+2021-09-15 14:14:10,849 -programms.PerfectNumberLBP041 -main - 26 -false
+2021-09-15 14:16:05,344 -programms.PerfectNumberLBP041 -main - 26 -true
+2021-09-15 14:16:33,576 -programms.PerfectNumberLBP041 -main - 25 -true
+2021-09-15 16:15:51,458 -programms.MagicDateLBP042 -main - 24 -true
+2021-09-15 16:26:08,116 -programms.OddishEvenishLBP043 -main - 27 -Evenish
+2021-09-15 17:04:08,138 -programms.NextPrimeNumberLBP044 -main - 24 -1
+2021-09-15 17:05:23,273 -programms.NextPrimeNumberLBP044 -main - 24 -17
+2021-09-15 17:58:02,354 -programms.VideoMinuteConversionLBP045 -main - 30 -122
+2021-09-15 17:58:50,938 -programms.VideoMinuteConversionLBP045 -main - 30 -61
+2021-09-15 18:01:19,936 -programms.VideoMinuteConversionLBP045 -main - 30 -60
+2021-09-15 18:07:47,230 -programms.SumOfDigitsBetweenLBP046 -main - 29 -24
+2021-09-16 10:50:39,886 -programms.SumOfDigitsBetweenLBP046 -main - 29 -24
+2021-09-16 10:55:53,746 -programms.SumOfDigitsBetweenLBP046 -main - 29 -19
+2021-09-16 11:22:02,398 -programms.JewelsAndStonesLBP048 -main - 25 -3
+2021-09-16 13:30:28,858 -programms.WordCountLBP050 -main - 22 -3
+2021-09-16 13:31:30,992 -programms.WordCountLBP050 -main - 22 -6
+2021-09-16 13:39:14,933 -programms.CompareStringEndLBP051 -main - 27 -true
+2021-09-16 13:39:33,244 -programms.CompareStringEndLBP051 -main - 27 -false
+2021-09-16 15:55:30,699 -programms.ReverseStringLBP052 -reverse - 12 -w
+2021-09-16 15:55:30,702 -programms.ReverseStringLBP052 -reverse - 12 -o
+2021-09-16 15:55:30,702 -programms.ReverseStringLBP052 -reverse - 12 -h
+2021-09-16 15:55:30,702 -programms.ReverseStringLBP052 -reverse - 12 - 
+2021-09-16 15:55:30,702 -programms.ReverseStringLBP052 -reverse - 12 -i
+2021-09-16 15:55:30,703 -programms.ReverseStringLBP052 -reverse - 12 -o
+2021-09-16 15:55:30,704 -programms.ReverseStringLBP052 -reverse - 12 -h
+2021-09-16 17:11:03,121 -programms.CountMaxCharacterLBP053 -main - 27 -m
+2021-09-16 18:47:32,797 -programms.ChessColorLBP054 -main - 28 -White
+2021-09-16 18:47:41,989 -programms.ChessColorLBP054 -main - 28 -White
+2021-09-16 18:48:33,692 -programms.ChessColorLBP054 -main - 31 -White
+2021-09-16 18:48:44,412 -programms.ChessColorLBP054 -main - 31 -White
+2021-09-16 18:51:12,300 -programms.ChessColorLBP054 -main - 32 -White
+2021-09-16 18:51:47,123 -programms.ChessColorLBP054 -main - 32 -Black
+2021-09-16 18:51:52,371 -programms.ChessColorLBP054 -main - 32 -Black
+2021-09-16 18:52:35,819 -programms.ChessColorLBP054 -main - 32 -Black
+2021-09-16 18:52:49,099 -programms.ChessColorLBP054 -main - 32 -White
+2021-09-16 18:53:03,835 -programms.ChessColorLBP054 -main - 32 -White
+2021-09-16 19:06:54,333 -programms.ChessColorLBP054 -main - 32 -Black
+2021-09-16 19:07:07,669 -programms.ChessColorLBP054 -main - 32 -White
+2021-09-16 19:07:17,309 -programms.ChessColorLBP054 -main - 32 -White
+2021-09-16 19:07:24,148 -programms.ChessColorLBP054 -main - 32 -White
+2021-09-16 19:24:53,121 -programms.ChessColorLBP054 -main - 32 -White
+2021-09-16 19:25:01,578 -programms.ChessColorLBP054 -main - 32 -White
+2021-09-16 19:27:04,569 -programms.ChessColorLBP054 -main - 32 -Black
+2021-09-16 19:27:10,713 -programms.ChessColorLBP054 -main - 32 -White
+2021-09-16 19:27:21,625 -programms.ChessColorLBP054 -main - 32 -White
+2021-09-16 19:27:29,057 -programms.ChessColorLBP054 -main - 32 -White
+2021-09-16 19:27:35,184 -programms.ChessColorLBP054 -main - 32 -White
+2021-09-16 19:28:34,937 -programms.ChessColorLBP054 -main - 32 -White
+2021-09-16 19:28:51,312 -programms.ChessColorLBP054 -main - 32 -White
+2021-09-16 19:29:05,368 -programms.ChessColorLBP054 -main - 32 -White
+2021-09-16 19:31:05,023 -programms.ChessColorLBP054 -main - 34 -White
+2021-09-16 19:34:32,573 -programms.ChessColorLBP054 -main - 34 -White
+2021-09-16 19:34:49,371 -programms.ChessColorLBP054 -main - 32 -White
+2021-09-16 19:35:58,917 -programms.ChessColorLBP054 -main - 34 -Black
+2021-09-16 19:36:09,140 -programms.ChessColorLBP054 -main - 34 -Black
+2021-09-16 19:36:16,356 -programms.ChessColorLBP054 -main - 34 -Black
+2021-09-16 19:36:42,836 -programms.ChessColorLBP054 -main - 31 -Black
+2021-09-16 19:44:36,841 -programms.ChessColorLBP054 -main - 29 -Black
+2021-09-16 19:44:53,025 -programms.ChessColorLBP054 -main - 27 -White
+2021-09-16 19:45:10,600 -programms.ChessColorLBP054 -main - 29 -Black
+2021-09-19 10:15:32,598 -programms.FindTheBombLBP055 -main - 29 -Relax, there is no Bomb.
+2021-09-19 10:17:15,697 -programms.FindTheBombLBP055 -main - 29 -Relax, there is no Bomb.
+2021-09-19 10:18:00,740 -programms.FindTheBombLBP055 -main - 29 -Relax, there is no Bomb.
+2021-09-19 10:21:46,987 -programms.FindTheBombLBP055 -main - 30 -Relax, there is no Bomb.
+2021-09-19 10:24:16,875 -programms.FindTheBombLBP055 -main - 30 -Relax, there is no Bomb.
+2021-09-19 10:24:56,043 -programms.FindTheBombLBP055 -main - 30 -Relax, there is no Bomb.
+2021-09-19 10:25:23,746 -programms.FindTheBombLBP055 -main - 31 -Relax, there is no Bomb.
+2021-09-19 10:27:11,265 -programms.FindTheBombLBP055 -main - 31 -Relax, there is no Bomb.
+2021-09-19 10:28:29,961 -programms.FindTheBombLBP055 -main - 31 -Relax, there is no Bomb.
+2021-09-19 10:29:18,952 -programms.FindTheBombLBP055 -main - 33 -Relax, there is no Bomb.
+2021-09-19 10:39:07,845 -programms.FindTheBombLBP055 -main - 33 -Relax, there is no Bomb.
+2021-09-19 10:40:35,229 -programms.FindTheBombLBP055 -main - 35 -Relax, there is no Bomb.
+2021-09-19 10:41:14,060 -programms.FindTheBombLBP055 -main - 35 -Relax, there is no Bomb.
+2021-09-19 10:41:52,372 -programms.FindTheBombLBP055 -main - 34 -Relax, there is no Bomb.
+2021-09-19 10:42:10,444 -programms.FindTheBombLBP055 -main - 34 -Relax, there is no Bomb.
+2021-09-19 10:42:28,685 -programms.FindTheBombLBP055 -main - 34 -Relax, there is no Bomb.
+2021-09-19 10:42:44,155 -programms.FindTheBombLBP055 -main - 35 -Relax, there is no Bomb.
+2021-09-19 10:43:08,532 -programms.FindTheBombLBP055 -main - 36 -DUCK
+2021-09-19 10:44:02,755 -programms.FindTheBombLBP055 -main - 36 -DUCK
+2021-09-19 10:44:33,244 -programms.FindTheBombLBP055 -main - 36 -DUCK
+2021-09-19 10:44:55,147 -programms.FindTheBombLBP055 -main - 31 -DUCK
+2021-09-19 10:45:10,770 -programms.FindTheBombLBP055 -main - 31 -DUCK
+2021-09-19 10:58:41,686 -programms.CountVowelsLBP056 -main - 24 -8
+2021-09-19 10:59:46,397 -programms.CountVowelsLBP056 -main - 24 -5
+2021-09-19 11:10:39,714 -programms.XOCountLBP057 -main - 29 -2
+2021-09-19 11:11:07,361 -programms.XOCountLBP057 -main - 29 -2
+2021-09-19 11:11:13,984 -programms.XOCountLBP057 -main - 29 -2
+2021-09-19 11:11:23,025 -programms.XOCountLBP057 -main - 29 -2
+2021-09-19 11:11:33,961 -programms.XOCountLBP057 -main - 29 -2
+2021-09-19 11:11:56,240 -programms.XOCountLBP057 -main - 29 -false
+2021-09-19 12:02:38,075 -programms.StutteringStringLBP058 -main - 25 -in...in...incredible?
+2021-09-19 12:09:35,793 -programms.RepeatingLetterLBP059 -main - 23 -hheelllloo
+2021-09-19 12:25:22,802 -programms.DoubleLettersLBP060 -main - 23 -true
+2021-09-19 12:25:30,410 -programms.DoubleLettersLBP060 -main - 23 -false
+2021-09-19 12:25:51,402 -programms.DoubleLettersLBP060 -main - 23 -true
+2021-09-19 12:28:44,761 -programms.DoubleLettersLBP060 -main - 21 -true
+2021-09-19 12:28:50,729 -programms.DoubleLettersLBP060 -main - 21 -true
+2021-09-19 12:29:31,201 -programms.DoubleLettersLBP060 -main - 21 -false
+2021-09-19 12:29:37,585 -programms.DoubleLettersLBP060 -main - 21 -true
+2021-09-19 12:46:57,818 -programms.BoardGameLBP061 -main - 29 -true
+2021-09-19 12:47:30,699 -programms.BoardGameLBP061 -boardGame - 22 -6
+2021-09-19 12:48:04,698 -programms.BoardGameLBP061 -boardGame - 22 -2
+2021-09-19 12:48:04,700 -programms.BoardGameLBP061 -boardGame - 23 -2
+2021-09-19 12:48:04,701 -programms.BoardGameLBP061 -boardGame - 24 -1
+2021-09-19 12:57:53,878 -programms.RemoveVowelsLBP062 -main - 23 -
+2021-09-19 12:58:46,686 -programms.RemoveVowelsLBP062 -main - 24 -
+2021-09-19 13:00:06,934 -programms.RemoveVowelsLBP062 -main - 24 -welcome
+2021-09-19 13:02:19,613 -programms.RemoveVowelsLBP062 -main - 26 -
+2021-09-19 13:07:03,923 -programms.RemoveVowelsLBP062 -main - 26 -
+2021-09-19 13:07:26,483 -programms.RemoveVowelsLBP062 -main - 26 -
+2021-09-19 13:08:56,947 -programms.RemoveVowelsLBP062 -main - 26 -wlcm
+2021-09-19 13:12:22,337 -programms.SpaceCounterLBP063 -main - 22 -2
+2021-09-19 21:24:23,530 -programms.CountVowelsLBP056 -main - 24 -5
+2021-09-19 21:29:59,984 -programms.SpaceCounterLBP063 -main - 22 -0
+2021-09-19 21:33:02,231 -programms.AddSpaceLBP065 -main - 21 -   
+2021-09-19 21:33:33,064 -programms.AddSpaceLBP065 -main - 22 -a b c 
+2021-09-19 22:42:03,577 -programms.HelloByeLPB066 -main - 22 -Hello amit
+2021-09-19 22:47:03,359 -programms.ValidZipCodeLBP067 -main - 26 -true
+2021-09-19 22:47:10,040 -programms.ValidZipCodeLBP067 -main - 26 -false
+2021-09-19 22:47:44,279 -programms.ValidZipCodeLBP067 -main - 26 -true
+2021-09-19 22:48:55,598 -programms.ValidZipCodeLBP067 -main - 26 -true
+2021-09-19 22:50:25,437 -programms.ValidZipCodeLBP067 -main - 25 -false
+2021-09-20 12:11:45,847 -programms.ReturnMiddleCharacterLBP068 -main - 30 -i
+2021-09-20 12:12:42,183 -programms.ReturnMiddleCharacterLBP068 -main - 30 -i
+2021-09-20 12:12:56,127 -programms.ReturnMiddleCharacterLBP068 -main - 30 -i
+2021-09-20 12:13:30,798 -programms.ReturnMiddleCharacterLBP068 -main - 31 -104i
+2021-09-20 12:13:40,494 -programms.ReturnMiddleCharacterLBP068 -main - 31 -104i
+2021-09-20 12:13:54,238 -programms.ReturnMiddleCharacterLBP068 -main - 31 -104i
+2021-09-20 12:14:11,278 -programms.ReturnMiddleCharacterLBP068 -main - 31 -ii
+2021-09-20 12:14:26,854 -programms.ReturnMiddleCharacterLBP068 -main - 31 -mi
+2021-09-20 12:17:00,493 -programms.ReturnMiddleCharacterLBP068 -main - 26 -c
+2021-09-20 12:19:27,468 -programms.ReturnMiddleCharacterLBP068 -main - 26 -mi
+2021-09-20 13:11:04,818 -programms.ReturnMiddleCharacterLBP068 -main - 26 -mi
+2021-09-20 14:23:52,775 -programms.ReturnIndexLBP069 -main - 21 -97
+2021-09-20 14:24:07,896 -programms.ReturnIndexLBP069 -main - 21 -0
+2021-09-20 14:24:15,959 -programms.ReturnIndexLBP069 -main - 21 -1
+2021-09-20 17:20:55,045 -programms.FindTheBombLBP055 -main - 32 -DUCK
+2021-09-20 17:22:56,428 -programms.CountMaxCharacterLBP053 -main - 27 -e
+2021-09-20 17:40:29,973 -programms.FindTheBombLBP055 -main - 31 -Relax, there is no Bomb.
+2021-09-20 17:40:53,518 -programms.FindTheBombLBP055 -main - 31 -DUCK
+2021-09-20 17:48:23,682 -programms.VideoMinuteConversionLBP045 -main - 30 -121
+2021-09-20 17:48:40,322 -programms.VideoMinuteConversionLBP045 -main - 30 -121
+2021-09-20 17:49:06,346 -programms.VideoMinuteConversionLBP045 -main - 30 -121
+2021-09-20 18:27:14,404 -programms.RemoveVowelsLBP062 -main - 24 -welcome
+2021-09-20 18:28:03,916 -programms.RemoveVowelsLBP062 -main - 24 -eoe
+2021-09-20 18:30:40,035 -programms.RemoveVowelsLBP062 -main - 25 -wlcm
+2021-09-20 18:38:24,545 -programms.LowertoUpperCaseLBP035 -main - 24 -AMIT
+2021-09-20 18:38:29,816 -programms.LowertoUpperCaseLBP035 -main - 24 -aMIT
+2021-09-20 18:39:49,935 -programms.CountSpecialCharacterLBP031 -main - 25 -4

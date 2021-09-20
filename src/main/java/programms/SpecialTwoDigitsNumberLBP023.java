@@ -1,0 +1,35 @@
+package programms;
+
+import java.util.Scanner;
+import org.apache.log4j.Logger;
+//Special two digit number
+public class SpecialTwoDigitsNumberLBP023 {
+	static Logger logger = Logger.getLogger(SpecialTwoDigitsNumberLBP023.class);
+	static int tempNumber = 0;
+	static int sum = 0;
+	static int mul = 1;
+	static int copyNumber = 0;
+
+	static String specialTwoDigitNumebr(int number) {
+		copyNumber = number;
+		while (copyNumber != 0) {
+			tempNumber = copyNumber % 10;
+			sum += tempNumber;
+			mul *= tempNumber;
+			copyNumber /= 10;
+		}
+		if (number == (sum + mul))
+			return "Special Two Digit Number";
+		else
+			return "Not a Speical Two Digit Number";
+
+	}
+
+	public static void main(String[] args) {
+		Scanner myObj = new Scanner(System.in);
+		int number = myObj.nextInt();
+		logger.info(SpecialTwoDigitsNumberLBP023.specialTwoDigitNumebr(number));
+
+	}
+
+}
