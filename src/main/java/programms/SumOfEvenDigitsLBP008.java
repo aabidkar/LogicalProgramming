@@ -3,7 +3,13 @@ package programms;
 import java.util.Scanner;
 import org.apache.log4j.Logger;
 
-//Sum of even digits
+/*
+Implement a program to calculate sum of digits present in the given number
+
+input -------------> a number from the user
+constraint --------> n>0
+output ------------> print sum of digits
+ */
 public class SumOfEvenDigitsLBP008 {
 	static Logger logger = Logger.getLogger(SumOfEvenDigitsLBP008.class);
 	static int tempNumber = 0;

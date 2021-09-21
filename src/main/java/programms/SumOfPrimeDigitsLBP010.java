@@ -3,7 +3,13 @@ package programms;
 import java.util.Scanner;
 import org.apache.log4j.Logger;
 
-//Sum of prime digits
+/*
+Implement a program to calculate sum of prime digits present in the given number
+
+input -------------> a number from the user
+constraint --------> n>0
+output ------------> print sum of prime digits
+ */
 public class SumOfPrimeDigitsLBP010 {
 	static Logger logger = Logger.getLogger(SumOfPrimeDigitsLBP010.class);
 	static int tempNumber = 0;

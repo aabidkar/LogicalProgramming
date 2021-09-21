@@ -3,7 +3,15 @@ package programms;
 import java.util.Scanner;
 import org.apache.log4j.Logger;
 
-//Fahrenheit To Celsius
+/*
+Program to convert fahrenheit to celsius.
+
+input -------> fahrenheit
+constraint --> no
+output ------> celsius
+
+formula: (F-32)*5/9
+ */
 public class FahrenheitToCelsiusLBP026 {
 	static Logger logger = Logger.getLogger(FahrenheitToCelsiusLBP026.class);
 	static int celsius = 0;

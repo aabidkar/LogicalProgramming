@@ -3,7 +3,24 @@ package programms;
 import java.util.Scanner;
 import org.apache.log4j.Logger;
 
-//Return first capital letter
+/*
+Implement a program to return First capital letter in a String
+
+input -------> A string from the user
+constraint --> non-empty string
+output ------> First Capital letter
+
+Logic:
+~~~~~~
+1-----> read a string value from the user
+2 ----> we need to check for fisrt Capital letter, 
+3 ----> return capital letter, terminate program.
+
+Hello ----> H
+hEllo ----> E
+heLlo ----> L
+HellO ----> H
+ */
 public class FristCapitalLetterLBP034 {
 	static Logger logger = Logger.getLogger(FristCapitalLetterLBP034.class);
 

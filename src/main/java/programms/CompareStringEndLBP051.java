@@ -3,7 +3,32 @@ package programms;
 import java.util.Scanner;
 import org.apache.log4j.Logger;
 
-//Compare string ending
+/*
+Check if String ending matches second String
+
+Create a function/method that takes two Strings and returns true of the first string ends with second string, otherwise return false.
+
+Input:  two strings
+Constraints: No 
+Output: true or false
+
+abc, bc -----> true
+kalyan, an --> true
+kalyan, a ---> false
+
+Logic:
+~~~~~~
+1. read s1
+2. read s2
+3. from reverse compare all the characters,
+4. len of s2 and counter
+
+kalyan
+xan
+
+0->1->2
+
+ */
 public class CompareStringEndLBP051 {
 	static Logger logger = Logger.getLogger(CompareStringEndLBP051.class);
 

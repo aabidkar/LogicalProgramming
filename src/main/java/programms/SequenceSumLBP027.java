@@ -2,8 +2,31 @@ package programms;
 
 import java.util.Scanner;
 import org.apache.log4j.Logger;
+/*
+Climbing Stairs
+You are climbing a stair case. It takes n steps to reach to the top.
 
-//Find the sequence sum
+Each time you can either climb 1 or 2 steps. 
+In how many distinct ways can you climb to the top?
+
+Note: Given n will be a positive integer.
+
+input --------> a number from the user
+Constraints --> no
+output -------> number of ways
+
+1----> 1
+2 ---> 2
+3 ---> 3
+4 ---> 5
+.
+.
+
+1 ----> 1
+2 ----> 2
+3 ----> 3
+4 ----> 5
+ */
 public class SequenceSumLBP027 {
 	static Logger logger = Logger.getLogger(SequenceSumLBP027.class);
 	static int sum = 0;

@@ -4,7 +4,13 @@ import java.util.Scanner;
 
 import org.apache.log4j.Logger;
 
-//Number of occurrence in a particular number
+/*
+Program to find number of occurrences of the given digit in the number n
+
+input ------> two numbers n and d
+constraints-> no constraints
+output -----> number of occurrences
+ */
 public class NumberOfOccuranceLBP015 {
 	static Logger logger = Logger.getLogger(NumberOfOccuranceLBP015.class);
 	static int tempNumber = 0;

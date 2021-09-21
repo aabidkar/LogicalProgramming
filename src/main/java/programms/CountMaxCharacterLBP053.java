@@ -3,7 +3,38 @@ package programms;
 import java.util.Scanner;
 import org.apache.log4j.Logger;
 
-//Count max character in a string
+/*
+Given a string, implement a program to find max occurring character in the given string
+
+input -------> A string from the user.
+constraints--> No
+output ------> max occurring character
+
+welcome ----> e 
+java -------> a
+
+Logic:
+~~~~~~~
+1. read a string s
+2. create an array with 256 values (0-255)
+3. read each character and store corresponding entry in array
+4. max counter in array
+5. print its character
+
+abababca
+
+a[0]=0
+.
+.
+a[97]=4
+a[98]=3
+a[99]=1
+.
+.
+.
+.
+a[255]=0c
+ */
 public class CountMaxCharacterLBP053 {
 	static Logger logger = Logger.getLogger(CountMaxCharacterLBP053.class);
 

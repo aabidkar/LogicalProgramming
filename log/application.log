@@ -397,3 +397,8 @@
 2021-09-20 18:38:24,545 -programms.LowertoUpperCaseLBP035 -main - 24 -AMIT
 2021-09-20 18:38:29,816 -programms.LowertoUpperCaseLBP035 -main - 24 -aMIT
 2021-09-20 18:39:49,935 -programms.CountSpecialCharacterLBP031 -main - 25 -4
+2021-09-20 20:31:15,635 -programms.MagicDateLBP042 -main - 21 -true
+2021-09-20 22:04:13,103 -programms.PalindromeStringLBP070 -main - 21 -Hi
+2021-09-20 22:04:52,358 -programms.PalindromeStringLBP070 -main - 21 -Hi
+2021-09-20 22:06:43,630 -programms.PalindromeStringLBP070 -main - 24 -Palindrome
+2021-09-20 22:06:49,119 -programms.PalindromeStringLBP070 -main - 24 -Not a Palindrome

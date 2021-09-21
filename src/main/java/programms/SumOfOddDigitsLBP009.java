@@ -4,7 +4,22 @@ import java.util.Scanner;
 
 import org.apache.log4j.Logger;
 
-//Sum of odd digits
+/*
+Implement a program to calculate sum of even digits present in the given number
+
+input -------------> a number from the user
+constraint --------> n>0
+output ------------> print sum of even digits
+
+Logic:
+
+while(n!=0)
+{
+	d=n%10;
+	logic
+	n=n/10;
+}
+ */
 public class SumOfOddDigitsLBP009 {
 	static Logger logger = Logger.getLogger(SumOfOddDigitsLBP009.class);
 	static int tempNumber = 0;

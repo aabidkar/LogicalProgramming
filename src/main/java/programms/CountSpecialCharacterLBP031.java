@@ -3,7 +3,22 @@ package programms;
 import java.util.Scanner;
 import org.apache.log4j.Logger;
 
-//Count special character
+/*
+Program to count number of special characters and white spaces in a given string.
+
+input --------> A string from the user
+constraint ---> non-empty string
+output -------> number of special characters
+
+
+Logic:
+-------
+1--------------> read a string from the user
+2 -------------> check each and every character
+3 -------------> if lower case alphabet, digit, upper case alphabet conitnue
+4 -------------> else counter++
+5 -------------> print counter
+ */
 public class CountSpecialCharacterLBP031 {
 	static int count = 0;
 	static Logger logger = Logger.getLogger(CountSpecialCharacterLBP031.class);

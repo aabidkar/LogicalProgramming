@@ -3,7 +3,23 @@ package programms;
 import java.util.Scanner;
 import org.apache.log4j.Logger;
 
-//Lower to Upper Case
+/*
+Implement a program to calculate toggle case of each characters of a string
+
+input -------> A String from user
+constriant --> non-empty String
+output ------> toggle case string
+
+HeLlO ---> hElLo
+
+Logic:
+~~~~~~
+1-------> read a string from the user
+2 ------> extract every character
+3 ------> if char is in lower case convert to upper case & vice versa
+4 ------> print string
+
+ */
 public class LowertoUpperCaseLBP035 {
 	static Logger logger = Logger.getLogger(LowertoUpperCaseLBP035.class);
 

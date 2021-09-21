@@ -3,7 +3,26 @@ package programms;
 import java.util.Scanner;
 import org.apache.log4j.Logger;
 
-//returns the index of first vowel in a string
+/*
+Index of first vowel
+
+create a function that returns the index of first vowel in a string
+
+input ------> a string
+con --------> no
+output -----> an int value
+
+test ------> e(1) -------------> 1
+welcome ---> e(1),o(4),e(6) ---> 1
+python ----> o(4) -------------> 4
+012345
+
+Logic:
+~~~~~~
+1. read a string from the user as s.
+2. read character from string s one by one and store in ch.
+3. if first occurrence of ch is in vowels, then return index.
+ */
 public class ReturnIndexLBP069 {
 	static Logger logger = Logger.getLogger(ReturnIndexLBP069.class);
 

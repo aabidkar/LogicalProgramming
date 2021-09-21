@@ -3,7 +3,13 @@ package programms;
 import java.util.Scanner;
 import org.apache.log4j.Logger;
 
-//Count number of digits
+/*
+Implement a program to calculate number of digits in the given number
+
+input -------------> a number from the user
+constraint --------> n>0
+output ------------> print number of digits in the number
+ */
 public class NumberOfDigitsLBP012 {
 	static Logger logger = Logger.getLogger(NumberOfDigitsLBP012.class);
 	static int tempNumber = 0;

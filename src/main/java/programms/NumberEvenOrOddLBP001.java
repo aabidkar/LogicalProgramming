@@ -2,9 +2,19 @@ package programms;
 
 import java.util.Scanner;
 import org.apache.log4j.Logger;
-//Program to check whether the given number is an even or odd number.
+
+/*
+Program to check whether the given number is even or odd number.
+
+inputs ----------> a number from the user
+output  ---------> even or odd or invalid
+constraint ------> n>=0
+
+Logic: if number is divisible by 2 then it is even number else odd number.
+*/
 public class NumberEvenOrOddLBP001 {
 	static Logger logger = Logger.getLogger(NumberEvenOrOddLBP001.class);
+
 	static String numberEvenOrOdd(int number) {
 		if (number >= 0) {
 			if (number % 2 == 0)

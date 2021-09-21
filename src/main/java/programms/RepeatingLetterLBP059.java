@@ -3,7 +3,23 @@ package programms;
 import java.util.Scanner;
 import org.apache.log4j.Logger;
 
-//Repeating Letters
+/*
+Create a method that takes a string and returns a string in which each character is repeated once.
+
+input ---------------> String from the user
+constraint ----------> No
+output --------------> String
+
+String ------> SSttrriinngg
+
+Logic:
+~~~~~~
+1. read a string from the user as s
+2. create a new string ns
+3. copy each character twice to the ns
+4. print ns
+
+ */
 public class RepeatingLetterLBP059 {
 	static Logger logger = Logger.getLogger(RepeatingLetterLBP059.class);
 

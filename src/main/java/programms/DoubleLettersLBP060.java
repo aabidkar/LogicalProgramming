@@ -3,7 +3,25 @@ package programms;
 import java.util.Scanner;
 import org.apache.log4j.Logger;
 
-//Check double letters is available or not
+/*
+Create a function that takes a word and returns true if the word has two consecutive identical letters.
+
+input ---------> A string
+constraint-----> No
+output --------> true or false
+
+abbc -----> true
+abcd -----> false
+abab -----> false
+
+Logic:
+~~~~~
+1. read a string from the user
+2. declare found as false
+3. if ith element and i+1th element are same, then assign found=true
+4. else found =false
+5. print found value
+ */
 public class DoubleLettersLBP060 {
 	static Logger logger = Logger.getLogger(DoubleLettersLBP060.class);
 

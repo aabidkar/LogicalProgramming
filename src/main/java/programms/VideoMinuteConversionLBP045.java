@@ -3,7 +3,26 @@ package programms;
 import java.util.Scanner;
 import org.apache.log4j.Logger;
 
-//Video minutes to seconds converter
+/*
+video length in seconds
+
+Accept video length in minutes the format is mm:ss in String format, create a function that takes video length and return it in seconds.
+
+input --------> video length in mm:ss
+constraint----> no
+output -------> length in seconds
+
+01:00 ====> 60
+02:02 ====> 122 
+02:01 ====> 121
+
+Logic:
+~~~~~
+1-----------> read mm:ss value in the form of String.
+2 ----------> extract mm value and convert into int--->m.
+3 ----------> extract ss value and convert into int--->s.
+4 ----------> print m*60+s
+ */
 public class VideoMinuteConversionLBP045 {
 	static Logger logger = Logger.getLogger(VideoMinuteConversionLBP045.class);
 

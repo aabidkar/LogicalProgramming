@@ -3,7 +3,18 @@ package programms;
 import java.util.Scanner;
 
 import org.apache.log4j.Logger;
-//Number Even or Odd
+
+/*
+Given an integer n, perform the following conditional actions,
+if n is odd, print weird,
+if n is even and in the inclusive range of 2 to 5, print Not Weird.
+if n is even and in the inclusive range of 6 to 20, print Weird.
+if n is even and greater than 20, print Not Weird.
+
+input-----> a number from the user
+Constraint-> 1<=n<=100
+output----> Weird or Not Weird
+ */
 public class NumberWeirdNotWeirdLBP002 {
 	static Logger logger = Logger.getLogger(NumberWeirdNotWeirdLBP002.class);
 

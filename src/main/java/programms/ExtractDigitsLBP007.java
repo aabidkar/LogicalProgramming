@@ -3,7 +3,23 @@ package programms;
 import java.util.Scanner;
 
 import org.apache.log4j.Logger;
-//Extract digits from the number
+
+/*
+Implement a program to extract digits from the given number
+
+input -------------> a number from the user
+constraint --------> n>0
+output ------------> print digits in line sep by space
+
+Logic: Digits extraction
+
+while(n!=0)
+{
+	d = n % 10;
+	print d
+	n = n / 10;
+}
+ */
 public class ExtractDigitsLBP007 {
 	static Logger logger = Logger.getLogger(ExtractDigitsLBP007.class);
 	static int tempNumber = 0;

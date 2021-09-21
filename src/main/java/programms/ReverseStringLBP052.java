@@ -3,7 +3,21 @@ package programms;
 import java.util.Scanner;
 import org.apache.log4j.Logger;
 
-//Reverse of a String
+/*
+create a method/function that takes a string as its argument and returns the string in reversed order.
+
+input ---------> a string 
+constraint ----> no
+output --------> reversed string
+
+Hello ----------> olleH
+Hello World ----> dlroW olleH
+
+Logic:
+~~~~~~~
+1. read s
+2. print each character from end to begin
+ */
 public class ReverseStringLBP052 {
 	static Logger logger = Logger.getLogger(ReverseStringLBP052.class);
 

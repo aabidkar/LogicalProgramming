@@ -3,7 +3,20 @@ package programms;
 import java.util.Scanner;
 import org.apache.log4j.Logger;
 
-//Count number of vowels in a string
+/*
+Create a function that takes a string and returns the number of vowels contained within it.
+
+input -----------> a string
+constraint ------> no
+output ----------> number of vowels
+
+
+Logic:
+~~~~~~
+1. read a string from the user
+2. fetch each character and check whether it is equal to 'a' or 'e' or 'i' or 'o' or 'u' then counter++
+3. print counter.
+ */
 public class CountVowelsLBP056 {
 	static Logger logger = Logger.getLogger(CountVowelsLBP056.class);
 

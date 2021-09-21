@@ -3,7 +3,20 @@ package programms;
 import java.util.Scanner;
 import org.apache.log4j.Logger;
 
-//Sum of even number in a given range
+/*
+Implement a program to find sum of even number between x and y both are inclusive.
+
+input -----> two int values
+constraint-> no
+output ----> sum of even numbers between x and y
+
+Logic:
+------
+step1 ----> read x & y values from the user
+step2 ----> repeat a loop from x to y both are inclusive (<=) [exclusive<]
+step3 ----> check every number if it is even then add to sum
+step4 ----> return sum
+ */
 public class SumOfEvenRangeLBP024 {
 	static Logger logger = Logger.getLogger(SumOfEvenRangeLBP024.class);
 	static int sum = 0;

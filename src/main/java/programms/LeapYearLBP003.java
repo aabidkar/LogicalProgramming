@@ -2,7 +2,25 @@ package programms;
 
 import java.util.Scanner;
 import org.apache.log4j.Logger;
-//Leap Year
+/*
+To check whether the given year is leap year or not.
+
+input------> year from the user
+constraint-> no constraint
+output-----> leap year or not leap year
+
+hint: for century year if it is divisible by 400 then only it is leap year
+
+Logic:
+
+i f (year %4==0 and year %100!=0) or year %400==0
+
+True
+
+else
+
+False
+ */
 public class LeapYearLBP003 {
 	static Logger logger = Logger.getLogger(LeapYearLBP003.class);
 
