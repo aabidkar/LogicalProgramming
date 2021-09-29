@@ -13,12 +13,12 @@ output ------------> print sum of even digits
 
 Logic:
 
-while(n!=0)
-{
-	d=n%10;
+(n!=0)
+
+	d=n%10
 	logic
-	n=n/10;
-}
+	n=n/10
+
  */
 public class SumOfOddDigitsLBP009 {
 	static Logger logger = Logger.getLogger(SumOfOddDigitsLBP009.class);

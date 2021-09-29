@@ -13,12 +13,10 @@ output ------------> print digits in line sep by space
 
 Logic: Digits extraction
 
-while(n!=0)
-{
-	d = n % 10;
+while number!=0
+	d = n % 10
 	print d
-	n = n / 10;
-}
+	n = n / 10
  */
 public class ExtractDigitsLBP007 {
 	static Logger logger = Logger.getLogger(ExtractDigitsLBP007.class);

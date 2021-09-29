@@ -5,7 +5,6 @@ import org.apache.log4j.Logger;
 
 /*
 Implement the following function
-	int BlackJack(int n1,int n2);
 
 the function accepts two +ve integers n1 and n2 as its arguments.
 Implement the function on given two values to return an int value as follows

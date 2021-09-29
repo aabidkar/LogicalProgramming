@@ -36,8 +36,8 @@ RE:
 [^02468] or [13579]
 [2357]
 [0-9][0-9][0-9][0-9][0-9]
-[0-9]{5}
-[6789][0-9]{9}
+[0-9](5)
+[6789][0-9](9)
  */
 public class ValidZipCodeLBP067 {
 	static Logger logger = Logger.getLogger(ValidZipCodeLBP067.class);

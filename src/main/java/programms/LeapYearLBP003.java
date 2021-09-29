@@ -13,7 +13,7 @@ hint: for century year if it is divisible by 400 then only it is leap year
 
 Logic:
 
-i f (year %4==0 and year %100!=0) or year %400==0
+if -year %4==0 and year %100!=0 or year %400==0-
 
 True
 

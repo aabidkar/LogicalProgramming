@@ -2,5 +2,5 @@ projectKey=com.logicalprogramming:LogicalProgramming
 serverUrl=http://localhost:9000
 serverVersion=9.0.1.46107
 dashboardUrl=http://localhost:9000/dashboard?id=com.logicalprogramming%3ALogicalProgramming
-ceTaskId=AXwI3P02V3z7ABfTmUyK
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXwI3P02V3z7ABfTmUyK
+ceTaskId=AXwyG9tZOk9-PStw3DvT
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXwyG9tZOk9-PStw3DvT
